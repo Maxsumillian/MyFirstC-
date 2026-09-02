@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\School\\SchoolFile\\C#\\Cis130 Student\\Lecture\\Chapter 01\\FinancialCalculations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11AD9972-8B79-4FF1-BAE4-0F1F58C173AC}|FinancialCalculations\\FinancialCalculations.csproj|d:\\school\\schoolfile\\c#\\cis130 student\\lecture\\chapter 01\\financialcalculations\\financialcalculations\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11AD9972-8B79-4FF1-BAE4-0F1F58C173AC}|FinancialCalculations\\FinancialCalculations.csproj|solutionrelative:financialcalculations\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11AD9972-8B79-4FF1-BAE4-0F1F58C173AC}|FinancialCalculations\\FinancialCalculations.csproj|d:\\school\\schoolfile\\c#\\cis130 student\\lecture\\chapter 01\\financialcalculations\\financialcalculations\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11AD9972-8B79-4FF1-BAE4-0F1F58C173AC}|FinancialCalculations\\FinancialCalculations.csproj|solutionrelative:financialcalculations\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\School\\SchoolFile\\C#\\Cis130 Student\\Lecture\\Chapter 01\\FinancialCalculations\\FinancialCalculations\\frmMain.cs",
+              "RelativeDocumentMoniker": "FinancialCalculations\\frmMain.cs",
+              "ToolTip": "D:\\School\\SchoolFile\\C#\\Cis130 Student\\Lecture\\Chapter 01\\FinancialCalculations\\FinancialCalculations\\frmMain.cs*",
+              "RelativeToolTip": "FinancialCalculations\\frmMain.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T22:37:09.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\School\\SchoolFile\\C#\\Cis130 Student\\Lecture\\Chapter 01\\FinancialCalculations\\FinancialCalculations\\frmMain.cs",
+              "RelativeDocumentMoniker": "FinancialCalculations\\frmMain.cs",
+              "ToolTip": "D:\\School\\SchoolFile\\C#\\Cis130 Student\\Lecture\\Chapter 01\\FinancialCalculations\\FinancialCalculations\\frmMain.cs [Design]*",
+              "RelativeToolTip": "FinancialCalculations\\frmMain.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T22:31:35.285Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
