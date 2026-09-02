@@ -1,0 +1,17 @@
+D:\School\SchoolFile\C#_schoolWork\Cis130 Student\Lecture\NA Assignment Maximllian Yang\bin\Debug\net10.0-windows\NA Assignment Maximllian Yang.exe
+D:\School\SchoolFile\C#_schoolWork\Cis130 Student\Lecture\NA Assignment Maximllian Yang\bin\Debug\net10.0-windows\NA Assignment Maximllian Yang.deps.json
+D:\School\SchoolFile\C#_schoolWork\Cis130 Student\Lecture\NA Assignment Maximllian Yang\bin\Debug\net10.0-windows\NA Assignment Maximllian Yang.runtimeconfig.json
+D:\School\SchoolFile\C#_schoolWork\Cis130 Student\Lecture\NA Assignment Maximllian Yang\bin\Debug\net10.0-windows\NA Assignment Maximllian Yang.dll
+D:\School\SchoolFile\C#_schoolWork\Cis130 Student\Lecture\NA Assignment Maximllian Yang\bin\Debug\net10.0-windows\NA Assignment Maximllian Yang.pdb
+D:\School\SchoolFile\C#_schoolWork\Cis130 Student\Lecture\NA Assignment Maximllian Yang\obj\Debug\net10.0-windows\NA_Assignment_Maximllian_Yang.frmNA.resources
+D:\School\SchoolFile\C#_schoolWork\Cis130 Student\Lecture\NA Assignment Maximllian Yang\obj\Debug\net10.0-windows\NA Assignment Maximllian Yang.csproj.GenerateResource.cache
+D:\School\SchoolFile\C#_schoolWork\Cis130 Student\Lecture\NA Assignment Maximllian Yang\obj\Debug\net10.0-windows\NA Assignment Maximllian Yang.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\SchoolFile\C#_schoolWork\Cis130 Student\Lecture\NA Assignment Maximllian Yang\obj\Debug\net10.0-windows\NA Assignment Maximllian Yang.AssemblyInfoInputs.cache
+D:\School\SchoolFile\C#_schoolWork\Cis130 Student\Lecture\NA Assignment Maximllian Yang\obj\Debug\net10.0-windows\NA Assignment Maximllian Yang.AssemblyInfo.cs
+D:\School\SchoolFile\C#_schoolWork\Cis130 Student\Lecture\NA Assignment Maximllian Yang\obj\Debug\net10.0-windows\NA Assignment Maximllian Yang.csproj.CoreCompileInputs.cache
+D:\School\SchoolFile\C#_schoolWork\Cis130 Student\Lecture\NA Assignment Maximllian Yang\obj\Debug\net10.0-windows\NA Assignment Maximllian Yang.sourcelink.json
+D:\School\SchoolFile\C#_schoolWork\Cis130 Student\Lecture\NA Assignment Maximllian Yang\obj\Debug\net10.0-windows\NA Assignment Maximllian Yang.dll
+D:\School\SchoolFile\C#_schoolWork\Cis130 Student\Lecture\NA Assignment Maximllian Yang\obj\Debug\net10.0-windows\refint\NA Assignment Maximllian Yang.dll
+D:\School\SchoolFile\C#_schoolWork\Cis130 Student\Lecture\NA Assignment Maximllian Yang\obj\Debug\net10.0-windows\NA Assignment Maximllian Yang.pdb
+D:\School\SchoolFile\C#_schoolWork\Cis130 Student\Lecture\NA Assignment Maximllian Yang\obj\Debug\net10.0-windows\NA Assignment Maximllian Yang.genruntimeconfig.cache
+D:\School\SchoolFile\C#_schoolWork\Cis130 Student\Lecture\NA Assignment Maximllian Yang\obj\Debug\net10.0-windows\ref\NA Assignment Maximllian Yang.dll
